@@ -8,7 +8,7 @@ ping_timeout_string="@ping_timeout"
 route_to_ping_string="@route_to_ping"
 
 online_icon_osx="✅ "
-online_icon="✅ "
+online_icon="✅"
 # online_icon="🟢"
 # online_icon="✔"
 offline_icon_osx="⛔️"
